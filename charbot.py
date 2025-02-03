@@ -1,5 +1,5 @@
 import streamlit as st
-#import transformers
+import transformers
 #from transformers import pipeline
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
 import nltk
